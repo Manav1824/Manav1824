@@ -19,7 +19,6 @@ I am currently available for freelance projects.
 
 *   **Email:** ghosttheuser1881@gmail.com
 *   **Upwork:** https://www.upwork.com/freelancers/~01f82c53dab81da063?mp_source=share
-*   **LinkedIn:** www.linkedin.com/in/manav-ex22
 
 ---
 *Currently pursuing a BS in Exploration Geology at IIT Kharagpur (Class of 2030), balancing earth sciences with building high-leverage software tools.*
